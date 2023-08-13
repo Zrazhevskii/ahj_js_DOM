@@ -1,3 +1,27 @@
 body {
-  background-color: rgb(104, 6, 104);
+  background-color: rgb(168, 245, 187);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.game-conteiner{
+  height: 500px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.game {
+  display: flex;
+  flex-wrap: wrap;
+  width: 414px;
+}
+
+.game-box {
+  background-color: rgb(7, 7, 220);
+  height: 100px;
+  width: 100px;
+  border: 2px solid rgb(248, 7, 7);
 }
