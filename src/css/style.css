@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(168, 245, 187);
+  background-color: rgb(3, 244, 236);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,8 +20,8 @@ body {
 }
 
 .game-box {
-  background-color: rgb(7, 7, 220);
+  background-color: rgb(4, 125, 38);
   height: 100px;
   width: 100px;
-  border: 2px solid rgb(248, 7, 7);
+  border: 2px solid rgb(248, 183, 183);
 }
