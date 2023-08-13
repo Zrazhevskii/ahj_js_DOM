@@ -40,3 +40,9 @@ body {
   width: 100px;
   border: 2px solid rgb(248, 183, 183);
 }
+
+.goblin {
+  background-image: url('../img/goblin.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
