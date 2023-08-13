@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(3, 244, 236);
+  background-color: rgb(63, 56, 250);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,6 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .game {
